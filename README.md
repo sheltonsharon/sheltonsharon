@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharon Shelton (@sheltonsharon)
-- 👀 I’m interested in helping computers think :)
-- 🌱 I’m currently learning reactjs and nodejs
+- 👀 Interested in helping computers think :)
+- 🌱 Working with react, node, firebase, google app engine primarly
 - 📫 How to reach me--> Drop a mail: sheltonsharonj@gmail.com || LinkedIn: https://www.linkedin.com/in/sharon-shelton-77a16b186/
 
 <!---
