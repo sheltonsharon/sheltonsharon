@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharon Shelton (@sheltonsharon)
 - 👀 Interested in telling computers what to do :)
-- 🌱 Working with react, node, firebase, google app engine primarly
+- 🌱 Working with react, node, firebase, google app engine primarily
 - 📫 How to reach me--> Drop a mail: sheltonsharonj@gmail.com || LinkedIn: https://www.linkedin.com/in/sharon-shelton-77a16b186/
 
 <!---
